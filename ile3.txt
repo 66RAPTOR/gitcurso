@@ -2,4 +2,5 @@ Archivo 3
 
 Instrucciones
 +Tener conocimiento en html
-+Tener conocimiento en CSS
++Tener conocimiento en CSS AVANZADO
++Conocer Git
